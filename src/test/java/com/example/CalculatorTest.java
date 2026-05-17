@@ -8,7 +8,7 @@ public class CalculatorTest {
 
     @Test
     public void testAdd() {
-        assertEquals(99, calculator.add(2, 3)); // Змінили 5 на 99
+        assertEquals(5, calculator.add(2, 3)); // Змінили 5 на 99
     }
 
     @Test
